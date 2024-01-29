@@ -2,6 +2,7 @@ import socket
 import time
 import struct
 import binascii
+#ボーン情報
 bone_map = [
     "Hips", #0
     "Spine", #1
